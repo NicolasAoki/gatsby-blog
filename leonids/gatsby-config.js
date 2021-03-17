@@ -3,13 +3,14 @@ module.exports = {
   siteMetadata: {
     title: `Nico`,
     author: {
-      name: `@ry_zou`,
-      summary: `web dev`,
+      name: `Nico`,
+      summary: `tech && feels`,
     },
     description: `A simple, fixed sidebar two columns Gatsby.js blog starter.`,
     siteUrl: `https://renyuanz.github.io/leonids`,
     social: {
       twitter: `ry_zou`,
+      instagram: `nicolas.aoki`,
     },
     defaultImage: "images/bg.jpeg",
   },
