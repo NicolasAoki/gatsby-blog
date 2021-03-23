@@ -1,13 +1,9 @@
 ---
 title: Self awareness
 date: "2021-03-17T03:21:03.284Z"
-description: "Tudo esta limitado dentro de nossas ações"
-categories: [hello world]
+description: ""
+categories: [poem]
 comments: true
-image:
-  feature: https://images.unsplash.com/photo-1440635592348-167b1b30296f?crop=entropy&dpr=2&fit=crop&fm=jpg&h=475&ixjsv=2.1.0&ixlib=rb-0.3.5&q=50&w=1250
-  credit: thomas shellberg
-  creditlink: https://unsplash.com/photos/Ki0dpxd3LGc
 ---
 
 <p>
@@ -38,5 +34,3 @@ image:
   Cabe a nós ressignificar cada ofício<br>
   Infelizmente é uma batalha diária onde nenhum de nós somos vistos<br>
 </p>
-
-<!-- ![Smithsonian Image](https://images.unsplash.com/photo-1440635592348-167b1b30296f?crop=entropy&dpr=2&fit=crop&fm=jpg&h=475&ixjsv=2.1.0&ixlib=rb-0.3.5&q=50&w=1250) -->
