@@ -1,7 +1,7 @@
 module.exports = {
   pathPrefix: "/leonids",
   siteMetadata: {
-    title: `Nico`,
+    title: `Nico .`,
     author: {
       name: `Nico`,
       summary: `tech && feels`,
@@ -9,8 +9,7 @@ module.exports = {
     description: `A simple, fixed sidebar two columns Gatsby.js blog starter.`,
     siteUrl: `https://renyuanz.github.io/leonids`,
     social: {
-      twitter: `ry_zou`,
-      instagram: `nicolas.aoki`,
+      twitter: `NicolasAoki`,
     },
     defaultImage: "images/bg.jpeg",
   },

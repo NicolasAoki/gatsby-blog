@@ -7,7 +7,7 @@
 
 import React from "react"
 import { useStaticQuery, graphql } from "gatsby"
-import Image from "gatsby-image"
+// import Image from "gatsby-image"
 
 import { rhythm } from "../utils/typography"
 
@@ -25,10 +25,9 @@ const Bio = () => {
         siteMetadata {
           author {
             name
-            summary
           }
           social {
-            instagram
+            twitter
           }
         }
       }
@@ -57,10 +56,10 @@ const Bio = () => {
         }}
       /> */}
       <p>
-        Escrito por <strong>{author.name}</strong>: {author.summary}
+        <strong>{author.name}</strong> .
         {` `}
-        <a href={`https://instagram.com/${social.instagram}`}>
-          @nicolas.aoki
+        <a target="_blank" href={`https://twitter.com/${social.twitter}`}>
+          @NicolasAoki
         </a>
       </p>
     </div>
