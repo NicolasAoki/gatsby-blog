@@ -58,7 +58,7 @@ const Bio = () => {
       <p>
         <strong>{author.name}</strong> .
         {` `}
-        <a target="_blank" href={`https://twitter.com/${social.twitter}`}>
+        <a target="_blank" rel="noreferrer" href={`https://twitter.com/${social.twitter}`}>
           @NicolasAoki
         </a>
       </p>
