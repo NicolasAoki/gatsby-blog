@@ -18,7 +18,7 @@ comments: true
   Só podem estar no profundo marasmo, melancolia <br>
 </p>
 <p>
-  Se a todo momento que estou afortunado
+  Se a todo momento que estou afortunado <br>
   Tenho que me comparar com o abominado <br>
   A que instante estará sendo aproveitado <br>
   Nao basta estarmos na pandemia? <br>
