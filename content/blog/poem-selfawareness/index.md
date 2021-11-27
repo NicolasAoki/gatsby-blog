@@ -8,7 +8,7 @@ comments: true
 
 <p>
   Não adianta de nada tentar mudar os outros <br>
-  Seu esforço sempre vai ser muito e os resultados vão ser poucos<br>
+  Seu esforço sempre vai ser muito e os resultados serão poucos<br>
   Parecem ter uma integridade forte mas por dentro são ocos<br>
   Nossa interação nao passa de animais selvagens loucos<br>
 </p>
