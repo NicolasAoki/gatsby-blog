@@ -6,26 +6,26 @@ categories: [poem]
 comments: true
 ---
 <p>
-  Nos melhores momentos da vida
-  Mais fácil achei que estaria
-  Afim de quebrar os próprios paradigmas
-  Devo estar com sentimentos de marilia
+  Nos melhores momentos da vida <br>
+  Mais fácil achei que estaria <br>
+  Afim de quebrar os próprios paradigmas <br>
+  Devo estar com sentimentos de marilia <br>
 </p>
 <p>
-  O quão difícil deve ser expor as mais fortes alegrias
-  Pois elas mesmas continuam sendo vividas
-  Quanto mais perto mais longe se intensifica
-  Só podem estar no profundo marasmo, melancolia
+  O quão difícil deve ser expor as mais fortes alegrias <br>
+  Pois elas mesmas continuam sendo vividas <br>
+  Quanto mais perto mais longe se intensifica <br>
+  Só podem estar no profundo marasmo, melancolia <br>
 </p>
 <p>
   Se a todo momento que estou afortunado
-  Tenho que me comparar com o abominado
-  A que instante estará sendo aproveitado
-  Nao basta estarmos na pandemia?
+  Tenho que me comparar com o abominado <br>
+  A que instante estará sendo aproveitado <br>
+  Nao basta estarmos na pandemia? <br>
 </p>
 <p>
-  Devo estar esperando o grande alado
-  Que vem e resolve enquanto estou calado
-  Nao há aquilo sem esforço demasiado
-  Continuo fazendo o meu todos os dias…
+  Devo estar esperando o grande alado <br>
+  Que vem e resolve enquanto estou calado <br>
+  Nao há aquilo sem esforço demasiado <br>
+  Continuo fazendo o meu todos os dias… <br>
 </p>
