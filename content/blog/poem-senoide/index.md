@@ -1,6 +1,5 @@
-
 ---
-title: Senóide
+title: Senoide
 date: "2021-11-22T05:40:03.284Z"
 description: ""
 categories: [poem]
